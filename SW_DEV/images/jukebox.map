@@ -1,0 +1,1245 @@
+Archive member included because of file (symbol)
+
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+                              (vfprintf)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o) (__fixsfsi)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o) (__nesf2)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_split.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_cmp.o) (__fp_split2)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fixsfsi.o) (__fp_zero)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(isinfnan.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o) (isnan)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(modf.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o) (modf)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o) (__mulsf3)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(mulsf3.o) (__mulsf3x)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(modf.o) (__addsf3)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(addsf3.o) (__addsf3x)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(modf.o) (__floatsisf)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_merge.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(modf.o) (__fp_merge)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_split.o) (__fp_nan)
+/usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_divmodhi4.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o) (__divmodhi4)
+/usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_udivmodsi4.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o) (__udivmodsi4)
+/usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o (exit)
+/usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_copy_data.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o) (__do_copy_data)
+/usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_clear_bss.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o) (__do_clear_bss)
+/usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_div_sf.o)
+                              src/fpga.o (__divsf3)
+/usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_thenan_sf.o)
+                              /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_div_sf.o) (__thenan_sf)
+/usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_udivmodhi4.o)
+                              /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_divmodhi4.o) (__udivmodhi4)
+/usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_prologue.o)
+                              /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_div_sf.o) (__prologue_saves__)
+/usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_epilogue.o)
+                              /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_div_sf.o) (__epilogue_restores__)
+/usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_pack_sf.o)
+                              /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_div_sf.o) (__pack_f)
+/usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_unpack_sf.o)
+                              /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_div_sf.o) (__unpack_f)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(strlen_P.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o) (strlen_P)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(strnlen_P.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o) (strnlen_P)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(strnlen.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o) (strnlen)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fdevopen.o)
+                              src/jukebox.o (fdevopen)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fputc.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o) (fputc)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(iob.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fdevopen.o) (__iob)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(printf.o)
+                              src/jukebox.o (printf)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(putchar.o)
+                              src/jukebox.o (putchar)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(puts.o)
+                              src/jukebox.o (puts)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(sscanf.o)
+                              src/menu.o (sscanf)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(vfscanf_std.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(sscanf.o) (vfscanf)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ee_rblk.1C1D1E.o)
+                              src/eeprom.o (__eeprom_read_block_1C1D1E)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ee_wblk.1C1D1E.o)
+                              src/eeprom.o (__eeprom_write_block_1C1D1E)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(calloc.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fdevopen.o) (calloc)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(calloc.o) (malloc)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(isspace.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(vfscanf_std.o) (isspace)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(tolower.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(vfscanf_std.o) (tolower)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(memset.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(calloc.o) (memset)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fgetc.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(vfscanf_std.o) (fgetc)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ungetc.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(vfscanf_std.o) (ungetc)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ee_rb.1C1D1E.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ee_rblk.1C1D1E.o) (__eeprom_read_byte_1C1D1E)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ee_wb.1C1D1E.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ee_wblk.1C1D1E.o) (__eeprom_write_byte_1C1D1E)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(isspace.o) (__ctype_isfalse)
+/usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(isalpha.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(tolower.o) (isalpha)
+/usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_mulsi3.o)
+                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(vfscanf_std.o) (__mulsi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+adc_result          0x2               src/jukebox.o
+__brkval            0x2               /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+counter             0xc               src/timer.o
+current_item        0x2               src/menu.o
+eeprom_cache        0x100             src/eeprom.o
+adc_fin             0x1               src/jukebox.o
+__flp               0x2               /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+serial_rx_ringbuffer
+                    0x87              src/serial.o
+__iob               0x6               /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(iob.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+LOAD /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a
+LOAD /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a
+LOAD src/jukebox.o
+LOAD src/timer.o
+LOAD src/serial.o
+LOAD src/ringbuffer.o
+LOAD src/adc.o
+LOAD src/menu.o
+LOAD src/eeprom.o
+LOAD src/fpga.o
+LOAD /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a
+LOAD /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x4c22
+ *(.vectors)
+ .vectors       0x0000000000000000       0x8c /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+                0x000000000000008c                __ctors_start = .
+ *(.ctors)
+                0x000000000000008c                __ctors_end = .
+                0x000000000000008c                __dtors_start = .
+ *(.dtors)
+                0x000000000000008c                __dtors_end = .
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x000000000000008c                . = ALIGN (0x2)
+ *(.init0)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000000000008c        0xc /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000098       0x16 /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_copy_data.o)
+                0x0000000000000098                __do_copy_data
+ .init4         0x00000000000000ae       0x10 /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_clear_bss.o)
+                0x00000000000000ae                __do_clear_bss
+ *(.init5)
+ *(.init6)
+ *(.init7)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000000be        0x8 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+ *(.text)
+ .text          0x00000000000000c6        0x4 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+                0x00000000000000c6                __vector_22
+                0x00000000000000c6                __vector_28
+                0x00000000000000c6                __vector_1
+                0x00000000000000c6                __vector_32
+                0x00000000000000c6                __vector_34
+                0x00000000000000c6                __vector_24
+                0x00000000000000c6                __vector_12
+                0x00000000000000c6                __bad_interrupt
+                0x00000000000000c6                __vector_6
+                0x00000000000000c6                __vector_31
+                0x00000000000000c6                __vector_3
+                0x00000000000000c6                __vector_23
+                0x00000000000000c6                __vector_25
+                0x00000000000000c6                __vector_11
+                0x00000000000000c6                __vector_13
+                0x00000000000000c6                __vector_17
+                0x00000000000000c6                __vector_19
+                0x00000000000000c6                __vector_7
+                0x00000000000000c6                __vector_27
+                0x00000000000000c6                __vector_5
+                0x00000000000000c6                __vector_33
+                0x00000000000000c6                __vector_4
+                0x00000000000000c6                __vector_2
+                0x00000000000000c6                __vector_15
+                0x00000000000000c6                __vector_29
+                0x00000000000000c6                __vector_8
+                0x00000000000000c6                __vector_26
+                0x00000000000000c6                __vector_10
+                0x00000000000000c6                __vector_18
+                0x00000000000000c6                __vector_20
+ .text          0x00000000000000ca      0xbe0 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+                0x00000000000003c8                vfprintf
+ .text          0x0000000000000caa      0x5f8 src/jukebox.o
+                0x000000000000110c                main_init
+                0x0000000000000cbc                power_error
+                0x0000000000000f34                main_power_check
+                0x0000000000000caa                print_dline
+                0x0000000000000ffa                initial_power_check
+                0x00000000000011c6                main
+                0x00000000000010da                operation_power_check
+ .text          0x00000000000012a2      0x1d6 src/timer.o
+                0x000000000000130a                timer2_uwait
+                0x00000000000012a2                timer2_init
+                0x0000000000001352                timer2_wait
+                0x00000000000012f4                timer2_uget
+                0x000000000000142e                __vector_9
+                0x00000000000012d0                timer2_get
+                0x00000000000013e4                __vector_14
+                0x000000000000139a                __vector_16
+ .text          0x0000000000001478      0x146 src/serial.o
+                0x00000000000014f2                serial_get
+                0x0000000000001546                __vector_30
+                0x00000000000014bc                serial_putc
+                0x0000000000001478                serial_init
+                0x00000000000014e6                serial_set_echo
+ .text          0x00000000000015be      0x1fe src/ringbuffer.o
+                0x0000000000001602                rb_put_avail
+                0x00000000000015c0                rb_no_get_time
+                0x000000000000160a                rb_put_wait
+                0x00000000000016d8                rb_get_avail
+                0x0000000000001760                rb_get
+                0x0000000000001686                rb_put
+                0x00000000000015be                rb_no_idle
+                0x00000000000015ca                rb_init
+                0x00000000000016e4                rb_get_wait
+ .text          0x00000000000017bc      0x1f4 src/adc.o
+                0x00000000000017d2                adc_get_value
+                0x0000000000001980                adc_set_resolution
+                0x00000000000017bc                adc_init
+                0x00000000000018de                print_supplies
+                0x0000000000001982                __vector_21
+                0x00000000000017f4                adc_check_power
+ .text          0x00000000000019b0      0xc24 src/menu.o
+                0x0000000000001dee                menu_print_selected
+                0x0000000000002062                menu_scan_yes_no
+                0x00000000000019b0                menu_wait_key
+                0x0000000000001b3a                print_menu
+                0x00000000000022fc                menu_scan_int16_dec
+                0x0000000000002468                menu_scan_uint16_hex
+                0x00000000000019d4                menu_port_status
+                0x0000000000001b0c                print_bars
+                0x0000000000001f56                menu_user_input_hex
+                0x0000000000002190                menu_scan_uint16_dec
+                0x0000000000001e20                menu_user_input_dec
+ .text          0x00000000000025d4      0x3e2 src/eeprom.o
+                0x000000000000295a                eeprom_is_config_valid
+                0x00000000000025d4                eeprom_save_cache
+                0x00000000000026c4                eeprom_cache_block
+                0x00000000000029a0                eeprom_set_config_valid
+                0x00000000000028e8                eeprom_fpga_restore
+                0x0000000000002958                eeprom_cached_block
+                0x000000000000291e                eeprom_fpga_save
+                0x0000000000002980                eeprom_config_valid
+                0x0000000000002630                eeprom_get_byte
+                0x00000000000026e6                eeprom_print_cache
+                0x0000000000002878                eeprom_read_value
+                0x0000000000002860                eeprom_erase_cache
+                0x000000000000279c                eeprom_print_content
+                0x0000000000002670                eeprom_put_byte
+                0x00000000000025fc                eeprom_load_cache
+                0x00000000000028aa                eeprom_write_value
+ .text          0x00000000000029b6      0xfae src/fpga.o
+                0x0000000000003494                fpga_adc_gain
+                0x0000000000002c7a                fpga_print_revision
+                0x0000000000002cd4                fpga_toogle_bit
+                0x0000000000002b54                fpga_get_eeprom_uint8
+                0x000000000000391c                fpga_route_is_dist
+                0x000000000000355a                fpga_dac_gain
+                0x0000000000002a58                fpga_print_no_firmware
+                0x00000000000029ea                fpga_check_cfg_done
+                0x0000000000002da4                fpga_print_distortion_poly
+                0x00000000000038c0                fpga_route_is_mute
+                0x0000000000002a08                fpga_get_revision
+                0x00000000000036a0                fpga_adc_status
+                0x000000000000365a                fpga_route_distortion
+                0x0000000000002d66                fpga_dac_toogle
+                0x00000000000036e4                fpga_dac_status
+                0x0000000000002bd2                fpga_get_uint8
+                0x00000000000037a0                fpga_noise_status
+                0x00000000000038e4                fpga_route_is_ser
+                0x0000000000002a8a                fpga_init
+                0x0000000000003728                fpga_route_status
+                0x0000000000002a6a                fpga_put_uint8
+                0x0000000000002fa2                fpga_draw_distort_graph
+                0x0000000000003526                fpga_set_adc_gain
+                0x0000000000002a4c                fpga_get_firmware_status
+                0x00000000000029b6                fpga_reset
+                0x00000000000038ba                fpga_active
+                0x0000000000003900                fpga_route_is_par
+                0x00000000000037ea                fpga_distort_status
+                0x0000000000002d70                fpga_set_noise
+                0x0000000000002c28                fpga_get_uint16
+                0x0000000000002d5c                fpga_adc_toogle
+                0x000000000000366e                fpga_firmware_status
+                0x0000000000003646                fpga_route_parallel
+                0x0000000000002ba0                fpga_put_eeprom_uint16
+                0x00000000000035ec                fpga_set_dac_gain
+                0x0000000000003620                fpga_route_mute
+                0x0000000000002bf2                fpga_put_uint16
+                0x0000000000002c68                fpga_reset_menu
+                0x00000000000029d4                fpga_prog_jtag
+                0x0000000000002b60                fpga_put_eeprom_uint8
+                0x0000000000003632                fpga_route_serial
+                0x0000000000002b6a                fpga_get_eeprom_uint16
+                0x0000000000002f08                fpga_set_distortion
+ .text          0x0000000000003964      0x160 /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_div_sf.o)
+                0x0000000000003964                __divsf3
+ .text          0x0000000000003ac4      0x1d0 /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_pack_sf.o)
+                0x0000000000003ac4                __pack_f
+ .text          0x0000000000003c94       0xf4 /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_unpack_sf.o)
+                0x0000000000003c94                __unpack_f
+ .text          0x0000000000003d88       0x12 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(strlen_P.o)
+                0x0000000000003d88                strlen_P
+ .text          0x0000000000003d9a       0x16 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(strnlen_P.o)
+                0x0000000000003d9a                strnlen_P
+ .text          0x0000000000003db0       0x16 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(strnlen.o)
+                0x0000000000003db0                strnlen
+ .text          0x0000000000003dc6       0x8e /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fdevopen.o)
+                0x0000000000003dc6                fdevopen
+ .text          0x0000000000003e54       0x5a /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fputc.o)
+                0x0000000000003e54                fputc
+ .text          0x0000000000003eae       0x2a /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(printf.o)
+                0x0000000000003eae                printf
+ .text          0x0000000000003ed8        0xe /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(putchar.o)
+                0x0000000000003ed8                putchar
+ .text          0x0000000000003ee6       0x6c /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(puts.o)
+                0x0000000000003ee6                puts
+ .text          0x0000000000003f52       0x44 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(sscanf.o)
+                0x0000000000003f52                sscanf
+ .text          0x0000000000003f96      0x518 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(vfscanf_std.o)
+                0x0000000000003f96                vfscanf
+ .text          0x00000000000044ae       0x38 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(calloc.o)
+                0x00000000000044ae                calloc
+ .text          0x00000000000044e6      0x1ec /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+                0x00000000000044e6                malloc
+                0x000000000000461a                free
+ .text          0x00000000000046d2        0xe /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(memset.o)
+                0x00000000000046d2                memset
+ .text          0x00000000000046e0       0x86 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fgetc.o)
+                0x00000000000046e0                fgetc
+ .text          0x0000000000004766       0x38 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ungetc.o)
+                0x0000000000004766                ungetc
+                0x000000000000479e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.fplib    0x000000000000479e       0x36 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                0x000000000000479e                __fixsfsi
+                0x00000000000047c4                __fp_lneg
+                0x000000000000479e                __fixunssfsi
+ .text.fplib    0x00000000000047d4       0x44 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                0x00000000000047d4                __lesf2
+                0x00000000000047d4                __nesf2
+                0x00000000000047da                __gtsf2
+                0x00000000000047d4                __eqsf2
+                0x00000000000047e0                __cmpsf2
+                0x00000000000047d4                __ltsf2
+                0x00000000000047da                __gesf2
+ .text.fplib    0x0000000000004818       0x52 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_split.o)
+                0x0000000000004818                __fp_split3
+                0x000000000000481e                __fp_split2
+                0x0000000000004830                __fp_split1
+                0x000000000000484c                __fp_split_a
+ .text.fplib    0x000000000000486a        0xa /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                0x000000000000486a                __fp_zero
+                0x0000000000004870                __fp_zerox
+ .text.fplib    0x0000000000004874       0x20 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(isinfnan.o)
+                0x0000000000004882                isinf
+                0x0000000000004874                isnan
+ .text.fplib    0x0000000000004894       0x60 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(modf.o)
+                0x0000000000004894                modf
+ .text.fplib    0x00000000000048f4        0x6 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                0x00000000000048f4                __mulsf3
+ .text.fplib    0x00000000000048fa       0x8a /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                0x00000000000048fa                __mulsf3x
+ .text.fplib    0x0000000000004984        0xa /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                0x0000000000004984                __subsf3
+                0x0000000000004986                __addsf3
+ .text.fplib    0x000000000000498e       0x7c /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+                0x000000000000498e                __addsf3x
+ .text.fplib    0x0000000000004a0a       0x18 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                0x0000000000004a0e                __floatsisf
+                0x0000000000004a0a                __floatunssisf
+ .text.fplib    0x0000000000004a22       0x3a /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_merge.o)
+                0x0000000000004a2c                __fp_merge
+ .text.fplib    0x0000000000004a5c        0x6 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                0x0000000000004a5c                __fp_nanERANGE
+                0x0000000000004a5c                __fp_nan
+                0x0000000000004a5c                __fp_nanEDOM
+                0x0000000000004a5c                __fp_nanx
+ .text.libgcc   0x0000000000004a62       0x26 /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_divmodhi4.o)
+                0x0000000000004a62                __divmodhi4
+                0x0000000000004a62                _div
+ .text.libgcc   0x0000000000004a88       0x44 /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_udivmodsi4.o)
+                0x0000000000004a88                __udivmodsi4
+ .text.libgcc   0x0000000000004acc       0x28 /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_udivmodhi4.o)
+                0x0000000000004acc                __udivmodhi4
+ .text.libgcc   0x0000000000004af4       0x38 /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_prologue.o)
+                0x0000000000004af4                __prologue_saves__
+ .text.libgcc   0x0000000000004b2c       0x36 /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_epilogue.o)
+                0x0000000000004b2c                __epilogue_restores__
+ .text.eeprom   0x0000000000004b62        0xa /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ee_rblk.1C1D1E.o)
+                0x0000000000004b62                __eeprom_read_block_1C1D1E
+ .text.eeprom   0x0000000000004b6c        0xa /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ee_wblk.1C1D1E.o)
+                0x0000000000004b6c                __eeprom_write_block_1C1D1E
+ .text.ctype    0x0000000000004b76       0x1e /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(isspace.o)
+                0x0000000000004b76                isspace
+ .text.ctype    0x0000000000004b94        0xc /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(tolower.o)
+                0x0000000000004b94                tolower
+ .text.eeprom   0x0000000000004ba0       0x10 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ee_rb.1C1D1E.o)
+                0x0000000000004ba0                __eeprom_read_byte_1C1D1E
+ .text.eeprom   0x0000000000004bb0       0x18 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ee_wb.1C1D1E.o)
+                0x0000000000004bb0                __eeprom_write_byte_1C1D1E
+ .text.ctype    0x0000000000004bc8        0x6 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                0x0000000000004bcc                __ctype_istrue
+                0x0000000000004bc8                __ctype_isfalse
+ .text.ctype    0x0000000000004bce       0x14 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(isalpha.o)
+                0x0000000000004bd4                islower
+                0x0000000000004bce                isupper
+                0x0000000000004bd2                isalpha
+ .text.libgcc   0x0000000000004be2       0x3e /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_mulsi3.o)
+                0x0000000000004be2                __mulsi3
+                0x0000000000004c20                . = ALIGN (0x2)
+ *(.fini9)
+ *(.fini8)
+ *(.fini7)
+ *(.fini6)
+ *(.fini5)
+ *(.fini4)
+ *(.fini3)
+ *(.fini2)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000004c20        0x2 /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_exit.o)
+                0x0000000000004c22                _etext = .
+
+.data           0x0000000000800100      0xc7a load address 0x0000000000004c22
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000800100      0x200 src/jukebox.o
+ .data          0x0000000000800300       0xcd src/adc.o
+                0x0000000000800300                channel_string
+ .data          0x00000000008003cd      0x528 src/menu.o
+                0x000000000080061b                txt_fpga_distort
+                0x000000000080068a                txt_fpga_menu
+                0x0000000000800606                txt_fpga_distfunc
+                0x00000000008006a5                txt_jtag_prog
+                0x00000000008005a0                txt_eeprom_display_content
+                0x00000000008003cd                menu
+                0x0000000000800678                txt_fpga_reset
+                0x00000000008005d7                txt_fpga_dac_gain
+                0x000000000080064b                txt_fpga_dac
+                0x00000000008005cb                txt_eeprom_cache
+                0x000000000080056a                txt_eeprom_read
+                0x0000000000800554                txt_eeprom_write
+                0x000000000080063e                txt_fpga_route
+                0x0000000000800695                txt_port_status
+                0x00000000008005e4                txt_fpga_adc_gain
+                0x0000000000800581                txt_eeprom_erase_cache
+                0x000000000080062f                txt_fpga_noise
+                0x000000000080058d                txt_eeprom_cache_save
+                0x000000000080050f                txt_eeprom_set_valid
+                0x00000000008006be                txt_reset
+                0x00000000008006d9                txt_mainmenu
+                0x00000000008005b5                txt_eeprom_display_cache
+                0x00000000008004c5                txt_fpga_route_dist
+                0x00000000008006c9                txt_supply
+                0x00000000008005f1                txt_fpga_distgraph
+                0x0000000000800661                txt_fpga_revision
+                0x00000000008004fc                txt_fpga_route_mute
+                0x00000000008004dc                txt_fpga_route_par
+                0x000000000080067e                txt_eeprom_menu
+                0x000000000080053c                txt_eeprom_restore
+                0x00000000008004ed                txt_fpga_route_ser
+                0x0000000000800528                txt_eeprom_save
+                0x0000000000800656                txt_fpga_adc
+ .data          0x00000000008008f5      0x140 src/eeprom.o
+                0x00000000008008f6                cached_block
+                0x00000000008008f5                eeprom_valid
+ .data          0x0000000000800a35      0x337 src/fpga.o
+                0x0000000000800a35                coeff_scale
+                0x0000000000800a45                p_fpga
+ .data          0x0000000000800d6c        0x8 /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_thenan_sf.o)
+                0x0000000000800d6c                __thenan_sf
+ .data          0x0000000000800d74        0x6 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+                0x0000000000800d76                __malloc_heap_start
+                0x0000000000800d74                __malloc_heap_end
+                0x0000000000800d78                __malloc_margin
+ *(.gnu.linkonce.d*)
+                0x0000000000800d7a                . = ALIGN (0x2)
+                0x0000000000800d7a                _edata = .
+                0x0000000000800d7a                PROVIDE (__data_end, .)
+
+.bss            0x0000000000800d7a      0x1ac
+                0x0000000000800d7a                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0000000000800d7a        0x1 src/jukebox.o
+                0x0000000000800d7a                power_fail
+ .bss           0x0000000000800d7b        0x1 src/timer.o
+                0x0000000000800d7b                timer_init_done
+ .bss           0x0000000000800d7c        0x1 src/serial.o
+                0x0000000000800d7c                serial_local_echo
+ .bss           0x0000000000800d7d        0x2 src/menu.o
+                0x0000000000800d7d                menu_items
+                0x0000000000800d7e                menu_initialized
+ .bss           0x0000000000800d7f        0x1 src/eeprom.o
+                0x0000000000800d7f                block_changed
+ .bss           0x0000000000800d80        0x4 src/fpga.o
+                0x0000000000800d83                fpga_version
+                0x0000000000800d81                fpga_patchlevel
+                0x0000000000800d80                fpga_has_firmware
+                0x0000000000800d82                fpga_subversion
+ *(COMMON)
+ COMMON         0x0000000000800d84        0x3 src/jukebox.o
+                0x0000000000800d84                adc_result
+                0x0000000000800d86                adc_fin
+ COMMON         0x0000000000800d87        0xc src/timer.o
+                0x0000000000800d87                counter
+ COMMON         0x0000000000800d93       0x87 src/serial.o
+                0x0000000000800d93                serial_rx_ringbuffer
+ COMMON         0x0000000000800e1a        0x2 src/menu.o
+                0x0000000000800e1a                current_item
+ COMMON         0x0000000000800e1c      0x100 src/eeprom.o
+                0x0000000000800e1c                eeprom_cache
+ COMMON         0x0000000000800f1c        0x6 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(iob.o)
+                0x0000000000800f1c                __iob
+ COMMON         0x0000000000800f22        0x4 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+                0x0000000000800f22                __brkval
+                0x0000000000800f24                __flp
+                0x0000000000800f26                PROVIDE (__bss_end, .)
+                0x0000000000004c22                __data_load_start = LOADADDR (.data)
+                0x000000000000589c                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800f26        0x0
+                0x0000000000800f26                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0000000000800f26                PROVIDE (__noinit_end, .)
+                0x0000000000800f26                _end = .
+                0x0000000000800f26                PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.stab           0x0000000000000000     0x55ec
+ *(.stab)
+ .stab          0x0000000000000000      0x378 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+ .stab          0x0000000000000378      0xb70 src/jukebox.o
+                                        0xb7c (size before relaxing)
+ .stab          0x0000000000000ee8      0x3fc src/timer.o
+                                        0x5a0 (size before relaxing)
+ .stab          0x00000000000012e4      0x438 src/serial.o
+                                        0x630 (size before relaxing)
+ .stab          0x000000000000171c      0x5dc src/ringbuffer.o
+                                        0x780 (size before relaxing)
+ .stab          0x0000000000001cf8      0x480 src/adc.o
+                                        0x660 (size before relaxing)
+ .stab          0x0000000000002178      0xf3c src/menu.o
+                                       0x1134 (size before relaxing)
+ .stab          0x00000000000030b4      0xab0 src/eeprom.o
+                                        0xcb4 (size before relaxing)
+ .stab          0x0000000000003b64     0x1a88 src/fpga.o
+                                       0x1cb0 (size before relaxing)
+
+.stabstr        0x0000000000000000     0x27b4
+ *(.stabstr)
+ .stabstr       0x0000000000000000     0x27b4 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(jukebox.elf elf32-avr)
+
+Cross Reference Table
+
+Symbol                                            File
+__addsf3                                          /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  src/fpga.o
+                                                  src/adc.o
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(modf.o)
+__addsf3x                                         /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(addsf3.o)
+__bad_interrupt                                   /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__brkval                                          /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+__bss_end                                         /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_clear_bss.o)
+__cmpsf2                                          /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+__ctype_isfalse                                   /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(isalpha.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(isspace.o)
+__ctype_istrue                                    /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+__data_end                                        /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_copy_data.o)
+__divmodhi4                                       /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_divmodhi4.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+__divsf3                                          /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_div_sf.o)
+                                                  src/fpga.o
+__do_clear_bss                                    /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_clear_bss.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ungetc.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fgetc.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(calloc.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(vfscanf_std.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(sscanf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(puts.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(putchar.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(printf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(iob.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fputc.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fdevopen.o)
+                                                  /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_unpack_sf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_pack_sf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_thenan_sf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_div_sf.o)
+                                                  src/fpga.o
+                                                  src/eeprom.o
+                                                  src/menu.o
+                                                  src/adc.o
+                                                  src/ringbuffer.o
+                                                  src/serial.o
+                                                  src/timer.o
+                                                  src/jukebox.o
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+__do_copy_data                                    /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_copy_data.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ungetc.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fgetc.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(calloc.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(vfscanf_std.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(sscanf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(puts.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(putchar.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(printf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(iob.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fputc.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fdevopen.o)
+                                                  /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_unpack_sf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_pack_sf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_thenan_sf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_div_sf.o)
+                                                  src/fpga.o
+                                                  src/eeprom.o
+                                                  src/menu.o
+                                                  src/adc.o
+                                                  src/ringbuffer.o
+                                                  src/serial.o
+                                                  src/timer.o
+                                                  src/jukebox.o
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+__eeprom_read_block_1C1D1E                        /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ee_rblk.1C1D1E.o)
+                                                  src/eeprom.o
+__eeprom_read_byte_1C1D1E                         /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ee_rb.1C1D1E.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ee_rblk.1C1D1E.o)
+__eeprom_write_block_1C1D1E                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ee_wblk.1C1D1E.o)
+                                                  src/eeprom.o
+__eeprom_write_byte_1C1D1E                        /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ee_wb.1C1D1E.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ee_wblk.1C1D1E.o)
+__epilogue_restores__                             /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_epilogue.o)
+                                                  /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_pack_sf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_div_sf.o)
+__eqsf2                                           /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+__fixsfsi                                         /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(modf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+__fixunssfsi                                      /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  src/fpga.o
+                                                  src/adc.o
+__floatsisf                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  src/fpga.o
+                                                  src/adc.o
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(modf.o)
+__floatunssisf                                    /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+__flp                                             /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+__fp_lneg                                         /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+__fp_merge                                        /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_merge.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(modf.o)
+__fp_nan                                          /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_split.o)
+__fp_nanEDOM                                      /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+__fp_nanERANGE                                    /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+__fp_nanx                                         /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__fp_split1                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_split.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+__fp_split2                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_split.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+__fp_split3                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_split.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+__fp_split_a                                      /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_split.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(modf.o)
+__fp_zero                                         /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_merge.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+__fp_zerox                                        /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__gesf2                                           /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+__gtsf2                                           /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                                                  src/fpga.o
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+__heap_end                                        /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+__heap_start                                      /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+__init                                            /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__iob                                             /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(puts.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(putchar.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(printf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(iob.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fdevopen.o)
+__lesf2                                           /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+__ltsf2                                           /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                                                  src/fpga.o
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+__malloc_heap_end                                 /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+__malloc_heap_start                               /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+__malloc_margin                                   /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+__mulsf3                                          /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  src/fpga.o
+                                                  src/adc.o
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+__mulsf3x                                         /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+__mulsi3                                          /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_mulsi3.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(vfscanf_std.o)
+__nesf2                                           /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                                                  src/fpga.o
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+__pack_f                                          /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_pack_sf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_div_sf.o)
+__prologue_saves__                                /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_prologue.o)
+                                                  /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_pack_sf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_div_sf.o)
+__stack                                           /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+                                                  src/jukebox.o
+__subsf3                                          /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(addsf3.o)
+__thenan_sf                                       /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_thenan_sf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_div_sf.o)
+__udivmodhi4                                      /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_udivmodhi4.o)
+                                                  /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_divmodhi4.o)
+__udivmodsi4                                      /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_udivmodsi4.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+__unpack_f                                        /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_unpack_sf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_div_sf.o)
+__vector_1                                        /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_10                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_11                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_12                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_13                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_14                                       src/timer.o
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_15                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_16                                       src/timer.o
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_17                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_18                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_19                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_2                                        /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_20                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_21                                       src/adc.o
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_22                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_23                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_24                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_25                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_26                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_27                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_28                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_29                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_3                                        /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_30                                       src/serial.o
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_31                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_32                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_33                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_34                                       /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_4                                        /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_5                                        /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_6                                        /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_7                                        /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_8                                        /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_9                                        src/timer.o
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vector_default                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+__vectors                                         /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+_div                                              /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_divmodhi4.o)
+_exit                                             /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_exit.o)
+adc_check_power                                   src/adc.o
+                                                  src/jukebox.o
+adc_fin                                           src/fpga.o
+                                                  src/eeprom.o
+                                                  src/menu.o
+                                                  src/adc.o
+                                                  src/jukebox.o
+adc_get_value                                     src/adc.o
+adc_init                                          src/adc.o
+                                                  src/jukebox.o
+adc_result                                        src/fpga.o
+                                                  src/eeprom.o
+                                                  src/menu.o
+                                                  src/adc.o
+                                                  src/jukebox.o
+adc_set_resolution                                src/adc.o
+block_changed                                     src/eeprom.o
+cached_block                                      src/eeprom.o
+calloc                                            /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(calloc.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fdevopen.o)
+channel_string                                    src/adc.o
+coeff_scale                                       src/fpga.o
+counter                                           src/timer.o
+current_item                                      src/menu.o
+eeprom_cache                                      src/eeprom.o
+eeprom_cache_block                                src/eeprom.o
+                                                  src/menu.o
+eeprom_cached_block                               src/eeprom.o
+                                                  src/menu.o
+eeprom_config_valid                               src/eeprom.o
+                                                  src/menu.o
+eeprom_erase_cache                                src/eeprom.o
+                                                  src/menu.o
+eeprom_fpga_restore                               src/eeprom.o
+                                                  src/menu.o
+eeprom_fpga_save                                  src/eeprom.o
+                                                  src/menu.o
+eeprom_get_byte                                   src/eeprom.o
+                                                  src/fpga.o
+eeprom_is_config_valid                            src/eeprom.o
+                                                  src/fpga.o
+                                                  src/jukebox.o
+eeprom_load_cache                                 src/eeprom.o
+eeprom_print_cache                                src/eeprom.o
+                                                  src/menu.o
+eeprom_print_content                              src/eeprom.o
+                                                  src/menu.o
+eeprom_put_byte                                   src/eeprom.o
+                                                  src/fpga.o
+eeprom_read_value                                 src/eeprom.o
+                                                  src/menu.o
+eeprom_save_cache                                 src/eeprom.o
+                                                  src/menu.o
+eeprom_set_config_valid                           src/eeprom.o
+                                                  src/menu.o
+eeprom_valid                                      src/eeprom.o
+eeprom_write_value                                src/eeprom.o
+                                                  src/menu.o
+exit                                              /usr/lib/gcc/avr/3.4.6/avr5/libgcc.a(_exit.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+fdevopen                                          /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fdevopen.o)
+                                                  src/jukebox.o
+fgetc                                             /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fgetc.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(vfscanf_std.o)
+fpga_active                                       src/fpga.o
+                                                  src/menu.o
+fpga_adc_gain                                     src/fpga.o
+                                                  src/menu.o
+fpga_adc_status                                   src/fpga.o
+                                                  src/menu.o
+fpga_adc_toogle                                   src/fpga.o
+                                                  src/menu.o
+fpga_check_cfg_done                               src/fpga.o
+                                                  src/jukebox.o
+fpga_dac_gain                                     src/fpga.o
+                                                  src/menu.o
+fpga_dac_status                                   src/fpga.o
+                                                  src/menu.o
+fpga_dac_toogle                                   src/fpga.o
+                                                  src/menu.o
+fpga_distort_status                               src/fpga.o
+                                                  src/menu.o
+fpga_draw_distort_graph                           src/fpga.o
+                                                  src/menu.o
+fpga_firmware_status                              src/fpga.o
+                                                  src/menu.o
+fpga_get_eeprom_uint16                            src/fpga.o
+fpga_get_eeprom_uint8                             src/fpga.o
+fpga_get_firmware_status                          src/fpga.o
+fpga_get_revision                                 src/fpga.o
+fpga_get_uint16                                   src/fpga.o
+fpga_get_uint8                                    src/fpga.o
+                                                  src/eeprom.o
+fpga_has_firmware                                 src/fpga.o
+fpga_init                                         src/fpga.o
+                                                  src/jukebox.o
+fpga_noise_status                                 src/fpga.o
+                                                  src/menu.o
+fpga_patchlevel                                   src/fpga.o
+fpga_print_distortion_poly                        src/fpga.o
+                                                  src/menu.o
+fpga_print_no_firmware                            src/fpga.o
+fpga_print_revision                               src/fpga.o
+                                                  src/menu.o
+fpga_prog_jtag                                    src/fpga.o
+fpga_put_eeprom_uint16                            src/fpga.o
+fpga_put_eeprom_uint8                             src/fpga.o
+fpga_put_uint16                                   src/fpga.o
+fpga_put_uint8                                    src/fpga.o
+                                                  src/eeprom.o
+fpga_reset                                        src/fpga.o
+fpga_reset_menu                                   src/fpga.o
+                                                  src/menu.o
+fpga_route_distortion                             src/fpga.o
+                                                  src/menu.o
+fpga_route_is_dist                                src/fpga.o
+                                                  src/menu.o
+fpga_route_is_mute                                src/fpga.o
+                                                  src/menu.o
+fpga_route_is_par                                 src/fpga.o
+                                                  src/menu.o
+fpga_route_is_ser                                 src/fpga.o
+                                                  src/menu.o
+fpga_route_mute                                   src/fpga.o
+                                                  src/menu.o
+fpga_route_parallel                               src/fpga.o
+                                                  src/menu.o
+fpga_route_serial                                 src/fpga.o
+                                                  src/menu.o
+fpga_route_status                                 src/fpga.o
+                                                  src/menu.o
+fpga_set_adc_gain                                 src/fpga.o
+                                                  src/menu.o
+fpga_set_dac_gain                                 src/fpga.o
+                                                  src/menu.o
+fpga_set_distortion                               src/fpga.o
+                                                  src/menu.o
+fpga_set_noise                                    src/fpga.o
+                                                  src/menu.o
+fpga_subversion                                   src/fpga.o
+fpga_toogle_bit                                   src/fpga.o
+fpga_version                                      src/fpga.o
+fputc                                             /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(fputc.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(putchar.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+free                                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+initial_power_check                               src/jukebox.o
+isalpha                                           /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(isalpha.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(tolower.o)
+isinf                                             /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(isinfnan.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+islower                                           /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(isalpha.o)
+isnan                                             /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(isinfnan.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+isspace                                           /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(isspace.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(vfscanf_std.o)
+isupper                                           /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(isalpha.o)
+main                                              src/jukebox.o
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/crtm64.o
+main_init                                         src/jukebox.o
+main_power_check                                  src/jukebox.o
+malloc                                            /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(calloc.o)
+memset                                            /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(memset.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(calloc.o)
+menu                                              src/menu.o
+menu_initialized                                  src/menu.o
+menu_items                                        src/menu.o
+menu_port_status                                  src/menu.o
+menu_print_selected                               src/menu.o
+                                                  src/fpga.o
+menu_scan_int16_dec                               src/menu.o
+                                                  src/fpga.o
+menu_scan_uint16_dec                              src/menu.o
+                                                  src/fpga.o
+                                                  src/eeprom.o
+menu_scan_uint16_hex                              src/menu.o
+                                                  src/eeprom.o
+menu_scan_yes_no                                  src/menu.o
+menu_user_input_dec                               src/menu.o
+menu_user_input_hex                               src/menu.o
+menu_wait_key                                     src/menu.o
+                                                  src/fpga.o
+                                                  src/eeprom.o
+modf                                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libm.a(modf.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+operation_power_check                             src/jukebox.o
+p_fpga                                            src/fpga.o
+power_error                                       src/jukebox.o
+power_fail                                        src/jukebox.o
+print_bars                                        src/menu.o
+                                                  src/jukebox.o
+print_dline                                       src/jukebox.o
+print_menu                                        src/menu.o
+                                                  src/jukebox.o
+print_supplies                                    src/adc.o
+                                                  src/menu.o
+printf                                            /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(printf.o)
+                                                  src/fpga.o
+                                                  src/eeprom.o
+                                                  src/menu.o
+                                                  src/adc.o
+                                                  src/jukebox.o
+putchar                                           /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(putchar.o)
+                                                  src/fpga.o
+                                                  src/menu.o
+                                                  src/adc.o
+                                                  src/jukebox.o
+puts                                              /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(puts.o)
+                                                  src/fpga.o
+                                                  src/eeprom.o
+                                                  src/menu.o
+                                                  src/adc.o
+                                                  src/jukebox.o
+rb_get                                            src/ringbuffer.o
+                                                  src/serial.o
+rb_get_avail                                      src/ringbuffer.o
+rb_get_wait                                       src/ringbuffer.o
+rb_init                                           src/ringbuffer.o
+                                                  src/serial.o
+rb_no_get_time                                    src/ringbuffer.o
+rb_no_idle                                        src/ringbuffer.o
+rb_put                                            src/ringbuffer.o
+                                                  src/serial.o
+rb_put_avail                                      src/ringbuffer.o
+                                                  src/serial.o
+rb_put_wait                                       src/ringbuffer.o
+serial_get                                        src/serial.o
+                                                  src/menu.o
+                                                  src/jukebox.o
+serial_init                                       src/serial.o
+                                                  src/jukebox.o
+serial_local_echo                                 src/serial.o
+serial_putc                                       src/serial.o
+                                                  src/jukebox.o
+serial_rx_ringbuffer                              src/serial.o
+serial_set_echo                                   src/serial.o
+                                                  src/jukebox.o
+sscanf                                            /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(sscanf.o)
+                                                  src/menu.o
+strlen_P                                          /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(strlen_P.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+strnlen                                           /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(strnlen.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+strnlen_P                                         /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(strnlen_P.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+timer2_get                                        src/timer.o
+                                                  src/serial.o
+timer2_init                                       src/timer.o
+                                                  src/jukebox.o
+timer2_uget                                       src/timer.o
+timer2_uwait                                      src/timer.o
+timer2_wait                                       src/timer.o
+                                                  src/fpga.o
+                                                  src/adc.o
+                                                  src/jukebox.o
+timer_init_done                                   src/timer.o
+tolower                                           /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(tolower.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(vfscanf_std.o)
+txt_eeprom_cache                                  src/menu.o
+txt_eeprom_cache_save                             src/menu.o
+txt_eeprom_display_cache                          src/menu.o
+txt_eeprom_display_content                        src/menu.o
+txt_eeprom_erase_cache                            src/menu.o
+txt_eeprom_menu                                   src/menu.o
+txt_eeprom_read                                   src/menu.o
+txt_eeprom_restore                                src/menu.o
+txt_eeprom_save                                   src/menu.o
+txt_eeprom_set_valid                              src/menu.o
+txt_eeprom_write                                  src/menu.o
+txt_fpga_adc                                      src/menu.o
+txt_fpga_adc_gain                                 src/menu.o
+txt_fpga_dac                                      src/menu.o
+txt_fpga_dac_gain                                 src/menu.o
+txt_fpga_distfunc                                 src/menu.o
+txt_fpga_distgraph                                src/menu.o
+txt_fpga_distort                                  src/menu.o
+txt_fpga_menu                                     src/menu.o
+txt_fpga_noise                                    src/menu.o
+txt_fpga_reset                                    src/menu.o
+txt_fpga_revision                                 src/menu.o
+txt_fpga_route                                    src/menu.o
+txt_fpga_route_dist                               src/menu.o
+txt_fpga_route_mute                               src/menu.o
+txt_fpga_route_par                                src/menu.o
+txt_fpga_route_ser                                src/menu.o
+txt_jtag_prog                                     src/menu.o
+txt_mainmenu                                      src/menu.o
+txt_port_status                                   src/menu.o
+txt_reset                                         src/menu.o
+txt_supply                                        src/menu.o
+ungetc                                            /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(ungetc.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(vfscanf_std.o)
+vfprintf                                          /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libprintf_flt.a(vfprintf_flt.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(printf.o)
+vfscanf                                           /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(vfscanf_std.o)
+                                                  /usr/lib/gcc/avr/3.4.6/../../../../avr/lib/avr5/libc.a(sscanf.o)

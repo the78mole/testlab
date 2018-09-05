@@ -1,0 +1,25 @@
+/**********************************************************************/
+/*							              */
+/* 		   Resource definition file		              */
+/*								      */
+/* This file defines the number of sites the tp will run on           */
+/* It will also specify the assignments of the resources to the sites */
+/*							              */
+/*							              */
+/**********************************************************************/
+
+MAX_SITES = 1
+
+/* Name		Type		Site 1			*/
+
+/* some examples */
+
+VCC_PIN		KEYWORD		P1			
+VEE_PIN		KEYWORD		P2			
+IO[0..3]        BUS             P3, P4, P5, P6
+	
+
+SupplySource	INSTRUMENT	VI1
+
+AllChannels	RDF_L		VCC_PIN, VEE_PIN, IO
+

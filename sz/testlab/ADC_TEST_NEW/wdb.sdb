@@ -1,0 +1,15 @@
+version specdatabase 0 1 0;
+title "/home/weber/sz/test1/ADC_TEST_NEW";
+sheet Sheet1 {
+
+    set Set1 {
+    	}
+
+	}
+
+configuration {
+    column [1 2 3 4 5 7 ];
+    coord [ 0 0 0 0];
+    evalsets ["Sheet1":"Set1" ];
+    view [ "Sheet1" "Set1" "Site1" "Select1" ];
+	}

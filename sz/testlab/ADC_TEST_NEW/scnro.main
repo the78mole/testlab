@@ -1,0 +1,25 @@
+scenario
+	component c0: wdb "ADC_TEST_NEW";
+		position 316 114;
+		inputs p4;
+		outputs p3;
+	end;
+	component c1: file "ADC_TEST_NEW.dss";
+		position 617 40;
+		inputs p6;
+		outputs p5;
+	end;
+	component c2: file "ADC_TEST_NEW.h";
+		position 599 148;
+		inputs p8;
+		outputs p7;
+	end;
+	component c3: operation "ate/dss";
+		position 464 114;
+		inputs p2;
+		outputs p1 p0;
+	end;
+	wire p0 p8;
+	wire p1 p6;
+	wire p3 p2;
+end.

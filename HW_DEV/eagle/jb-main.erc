@@ -1,0 +1,38 @@
+EAGLE Version 4.15 Copyright (c) 1988-2005 CadSoft
+
+Electrical Rule Check for /amd/slytherin/export/home2/stud_user/daniel/eagle/projects/jukebox/schematics/jb-main.sch at  8/01/2007 13:05:00 
+
+WARNING: Sheet 1/4: POWER Pin IC1 VCC1 connected to +3V3
+WARNING: Sheet 1/4: POWER Pin IC1 VCC connected to +3V3
+WARNING: Sheet 1/4: POWER Pin IC1 GND1 connected to GND
+WARNING: Sheet 1/4: POWER Pin QG2 VCC connected to +3V3
+WARNING: Sheet 1/4: POWER Pin IC2P VCC connected to +3V3
+WARNING: Sheet 1/4: POWER Pin IC3 VCCJ connected to VCC
+WARNING: Sheet 1/4: POWER Pin IC3 VCCO connected to +3V3
+WARNING: Sheet 1/4: POWER Pin IC3 VCCINIT connected to +3V3
+WARNING: Sheet 1/4: POWER Pin QG1 VCC connected to +5V
+WARNING: Sheet 2/4: SUPPLY Pin AGND overwritten with AGNDAD
+WARNING: Sheet 2/4: SUPPLY Pin V+ overwritten with AVDDAD
+WARNING: Sheet 3/4: SUPPLY Pin AGND overwritten with AGNDDA
+WARNING: Sheet 3/4: SUPPLY Pin V+ overwritten with AVDDDA
+ERROR: Sheet 3/4: SUPPLY Pin AGND overwritten with more than one signal (AGNDDA, AGND)
+WARNING: Sheet 3/4: POWER Pin IC6 AVDDR connected to AVDDDA
+WARNING: Sheet 3/4: POWER Pin IC6 AVDDL connected to AVDDDA
+WARNING: Sheet 3/4: POWER Pin IC6 DVDD connected to +5V
+WARNING: Sheet 3/4: POWER Pin IC6 DGND connected to GND
+WARNING: Sheet 3/4: POWER Pin IC6 AGNDL connected to AGND
+WARNING: Sheet 3/4: POWER Pin IC6 AGNDR connected to AGND
+WARNING: Sheet 4/4: POWER Pin IC4 IN1 connected to +5V
+WARNING: Sheet 4/4: POWER Pin IC4 IN2 connected to +5V
+WARNING: Sheet 4/4: POWER Pin IC4 IN3 connected to +5V
+WARNING: Sheet 4/4: POWER Pin IC4 DGND2 connected to GND
+WARNING: Sheet 4/4: POWER Pin IC4 AGND connected to GND
+WARNING: Sheet 4/4: POWER Pin IC4 TGND1 connected to GND
+WARNING: Sheet 4/4: POWER Pin IC4 DGND1 connected to GND
+WARNING: Sheet 4/4: POWER Pin IC4 TGND2 connected to GND
+ERROR: OUTPUT and SUPPLY Pins mixed on net VCC
+
+Board and schematic are consistent
+
+    2 errors
+   27 warnings
